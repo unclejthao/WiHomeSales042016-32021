@@ -67,4 +67,4 @@ The forecast shows the same pattern, July was estimated to have the highest both
 
 The histogram shows a normal curve with an average sale price of $210,712 and a standard deviation of $156,282
 
-![Estimated average home sale price and number of houses sold](https://github.com/unclejthao/WiHomeSales042016-32021/blob/master/Prediction.png)
+![Estimated average home sale price and number of houses sold](https://github.com/unclejthao/WiHomeSales042016-32021/blob/master/Histogram.png)
